@@ -55,22 +55,6 @@ Each row contains:
 
 ---
 
-## Key Consistency Rules
-
-* Critical narrative ordering preserved:
-
-  * *The First Heretic → A Thousand Sons → Prospero Burns*
-* No duplicated entries (e.g. *Vengeful Spirit*)
-* No overlapping arcs:
-
-  * Calth arc
-  * Imperium Secundus
-  * White Scars arc
-* Siege of Terra novellas are **explicitly included and positioned correctly**
-* Non-linear works (e.g. *The Infinite and the Divine*) are isolated into faction blocks
-
----
-
 ## Notes
 
 * Some works (especially anthologies and Necron stories) have **approximate placement** due to non-linear timelines
@@ -147,22 +131,6 @@ warhammer_40k_chronology_ru_desc_filled_v3.xlsx
 * Фракция (если применимо)
 * Тип (роман / новелла / рассказ / антология)
 * Краткое описание
-
----
-
-## Правила целостности
-
-* Сохранена ключевая последовательность:
-
-  * *The First Heretic → A Thousand Sons → Prospero Burns*
-* Нет дублей (например, *Vengeful Spirit*)
-* Нет пересечений арок:
-
-  * Калт
-  * Imperium Secundus
-  * Белые Шрамы
-* Новеллы Осады Терры **не потеряны и стоят на своих местах**
-* Нелинейные произведения (например, *The Infinite and the Divine*) вынесены в отдельные блоки
 
 ---
 
