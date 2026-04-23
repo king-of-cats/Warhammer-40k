@@ -1,0 +1,2 @@
+# Warhammer 40k
+A complete chronological table of Warhammer 40,000 (Black Library) works, ordered by in-universe events rather than publication date. Includes novels, novellas, short stories, and anthologies without omissions. Long-running series are expanded into their exact reading order. Official Russian titles are included where available, along with brief descriptions for each entry. The table is designed for spoiler-minimized, consistent reading.
