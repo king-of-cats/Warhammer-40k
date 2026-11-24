@@ -6,7 +6,7 @@
 
 A research project building a recommended chronological reading order for Warhammer 40,000 / Black Library fiction, based on **in-universe events and spoiler safety**.
 
-**Current version: v6 — ongoing audit, updated 28 September 2026.**
+**Current version: v6 — ongoing audit, updated 24 November 2026.**
 
 Download: [warhammer_40k_chronology_audited_v6.xlsx](warhammer_40k_chronology_audited_v6.xlsx)
 
